@@ -5,6 +5,9 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+  "react": "...",
+  "react-dom": "...",
+  "react-scripts": "5.0.1"
    
   },
   "scripts": {
